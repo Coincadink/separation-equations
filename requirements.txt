@@ -1,0 +1,7 @@
+# .ipynb functionality
+ipykernel==6.29.5
+
+# Scientific libraries
+numpy==2.2.4
+scipy==1.15.2
+matplotlib==3.10.1
